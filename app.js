@@ -7,8 +7,8 @@ const app = express();
 const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
-  password: '12345',
-  database: 'innovadb'
+  password: 'Itca123',
+  database: 'joomla_db'
 });
 
 // Middlewares
